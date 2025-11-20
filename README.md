@@ -1,6 +1,6 @@
-# Car Damage Classifier
+                                # Car Damage Classifier
 
-Detect **Dent** or **Scratch** from car images using a simple trained SVM model.
+              Detect **Dent** or **Scratch** from car images using a simple trained SVM model.
 
 ---
 
@@ -9,7 +9,7 @@ Detect **Dent** or **Scratch** from car images using a simple trained SVM model.
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/username/car_damage_classifier.git
+git clone [https://github.com/username/car_damage_classifier.git](https://github.com/manojaberathna24/ModelTraining.git)
 cd car_damage_classifier
 
 
